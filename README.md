@@ -9,6 +9,6 @@ This project is an end-to-end data engineering and business intelligence solutio
 
 Database: MySQL, MySQL Workbench
 
-Data Processing: Python, Pandas, SQLAlchemy, PyMySQL
+Data Processing: Python, Pandas, SQLAlchemy
 
 Visualization: Plotly Express (Python), Power BI (DAX, Power Query)
